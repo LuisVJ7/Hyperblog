@@ -3,3 +3,6 @@ Tengo 21 ,soy estudiante de Ingenieria de teleco
 
 En estos momentos me encuentro estudiando
  Git and GitHub.
+
+ Hoy volvi a estudiar nuevamente
+ Mi clase fue Python.
